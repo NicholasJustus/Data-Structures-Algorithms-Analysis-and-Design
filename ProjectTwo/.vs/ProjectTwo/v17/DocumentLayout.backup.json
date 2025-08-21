@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nickj\\OneDrive\\Desktop\\CS-300\\ProjectTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEC2227-4F6A-4CE5-86C4-636358AB4413}|ProjectTwo.vcxproj|C:\\Users\\nickj\\OneDrive\\Desktop\\CS-300\\ProjectTwo\\ProjectTwo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BEC2227-4F6A-4CE5-86C4-636358AB4413}|ProjectTwo.vcxproj|solutionrelative:ProjectTwo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectTwo.cpp",
+              "DocumentMoniker": "C:\\Users\\nickj\\OneDrive\\Desktop\\CS-300\\ProjectTwo\\ProjectTwo.cpp",
+              "RelativeDocumentMoniker": "ProjectTwo.cpp",
+              "ToolTip": "C:\\Users\\nickj\\OneDrive\\Desktop\\CS-300\\ProjectTwo\\ProjectTwo.cpp",
+              "RelativeToolTip": "ProjectTwo.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T20:50:41.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
